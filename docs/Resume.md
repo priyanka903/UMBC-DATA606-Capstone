@@ -45,20 +45,17 @@
 
 ## Projects
 
-**Newsletter Machine Learning Project - Jan 2023 - March 2023** 
+**Newsletter Machine Learning Project - Jan 2023 - March 2023** [Link](https://github.com/priyanka903/Newsletter_Dataset_MachineLearning_Project)
 - Cleaned and visualized a dataset with 12 unique values, improving machine learning model accuracy by 15%.
 - Implemented SimpleImputer, OneHotEncoder, cross-validation, and assessed Logistic Regression, Decision Tree, SVM, and Random Forest models.
-- [Newsletter Machine Learning Project](https://github.com/priyanka903/Newsletter_Dataset_MachineLearning_Project)
 
-**Movie Recommendation System Using Big data - Feb 2023 - March 2023** 
+**Movie Recommendation System Using Big data - Feb 2023 - March 2023** [Link](https://github.com/priyanka903/MovieRecommendation_Bigdata_project)
 - Utilized a dataset with metadata for 45,000 movies and 6 million ratings.
 - Integrated Demographic Filtering, Content-Based Recommendation, and Collaborative Filtering techniques, improving recommendation accuracy by 15%.
--[Movie Recommendation System Using Big data](https://github.com/priyanka903/MovieRecommendation_Bigdata_project)
 
-**UK Road Traffic Collision Dataset - Sep 2022 - Dec 2022** [Projects](https://github.com/priyanka903/Newsletter_Dataset_MachineLearning_Project)
+**UK Road Traffic Collision Dataset - Sep 2022 - Dec 2022** [Link](https://github.com/priyanka903/Accident_Dataset_Project)
 - Analyzed and visualized UK Road Traffic Collision Dataset with over 2.1 million rows using Python.
 - Conducted exploratory data analysis using Matplotlib, Seaborn, NumPy, and Pandas on factors influencing over 300,000 collisions.
-- [UK Road Traffic Collision Dataset](https://github.com/priyanka903/Accident_Dataset_Project)
 
 ## Recognition
 
