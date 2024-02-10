@@ -25,7 +25,7 @@ Online payment fraud is a significant issue affecting businesses and individuals
 ## Data 
 - **Source:** https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection/data
 - **Size:** - 186 MB
-- **Shape:** -
+- **Shape:** 
   - Rows - 6362620
   - Columns - 11
 - **Time period** - 2010-2016
