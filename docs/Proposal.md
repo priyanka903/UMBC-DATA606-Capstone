@@ -30,6 +30,7 @@ Online payment fraud is a significant issue affecting businesses and individuals
   - Columns - 11
 - **Each row describes** - Transaction details.
 - **Data Dictionary**
+
 | Column          | Data Type | Definition                                            | Potential Values                                      |
 |-----------------|-----------|-------------------------------------------------------|--------------------------------------------------------|
 | Step            | Integer   | The step in the transaction process                    | Continuous numerical values                           |
