@@ -28,7 +28,6 @@ Online payment fraud is a significant issue affecting businesses and individuals
 - **Shape:** 
   - Rows - 6362620
   - Columns - 11
-- **Time period** - 2010-2016
 - **Each row describes** - Transaction details.
 - **Data Dictionary**
 Certainly! Based on the provided table, let's add the data types, definitions, and potential values for each column:
