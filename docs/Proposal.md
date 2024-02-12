@@ -19,7 +19,7 @@ Online payment fraud is a significant issue affecting businesses and individuals
 ### Research Questions
 - Discover the hidden patterns in the fraudulent transactions that can be utilized for better detection.
 - What all attributes play significant role in fraudulent transactions?
-- Does amount attibute have the imporantance in fraud transaction./
+- Does amount/type of transaction attibute have the imporantance in fraud transaction.
 - Identify which machine learning algorithms or models are most effective in identifying fraudulent transactions.
 
 ## Data 
