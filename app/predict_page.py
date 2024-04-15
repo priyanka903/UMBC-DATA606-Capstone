@@ -4,7 +4,7 @@ import numpy as np
 
 def load_model():
     try:
-        with open('saved_steps.pkl', 'rb') as file:
+        with open('https://github.com/priyanka903/UMBC-DATA606-Capstone/raw/main/app/saved_steps.pkl', 'rb') as file:
             data = pickle.load(file)
         return data
     except FileNotFoundError:
@@ -13,7 +13,7 @@ def load_model():
     except Exception as e:
         print(f"An error occurred: {e}")
         return None
-        
+
 data = load_model()
 regressor = data["model"]
 
