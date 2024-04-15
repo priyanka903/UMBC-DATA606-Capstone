@@ -53,21 +53,21 @@ Online payment fraud is a significant issue affecting businesses and individuals
 - The remaining columns are predictors
 
 ## Model Training
-### 1. Models for Predictive Analytics:
+1. Models for Predictive Analytics:
 Models used are Logistic regression, Decision trees, Random forest and XGboost. I have applied grid search on the best model to recieve idea results.
 
-### 2. Training Procedure:
+2. Training Procedure:
 I have performed the Train vs test split for 70/30 to ensure the model learns effectively and generalizes well to new data.
 
-### 3. Python Packages:
+3. Python Packages:
 I have primarily used python packages in project. They are Numpy, Pandas, missingno, matplotlib, plotly, seaborn and scikit-learn
 
-### 4. Development Environments:
+4. Development Environments:
 The development environments are
 - Local machine: Jupyter Notebook 
 - Online platforms: Google Colab, GitHub
 
-###5.Performance Measures of the models
+5.Performance Measures of the models
 I have evaluated performance of the model using Accuracy, Classification Report and ROC curve.
 
 ## Web App Development:
