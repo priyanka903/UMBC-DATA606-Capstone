@@ -3,10 +3,17 @@ import pickle
 import numpy as np
 
 def load_model():
-    with open('saved_steps.pkl', 'rb') as file:
-        data = pickle.load(file)
-    return data
-
+    try:
+        with open('saved_steps.pkl', 'rb') as file:
+            data = pickle.load(file)
+        return data
+    except FileNotFoundError:
+        print("The file 'saved_steps.pkl' was not found.")
+        return None
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return None
+        
 data = load_model()
 regressor = data["model"]
 
