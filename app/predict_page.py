@@ -1,17 +1,22 @@
 import streamlit as st
 import pickle
 import numpy as np
+from io import BytesIO
 
 def load_model():
-    try:
-        with open('https://github.com/priyanka903/UMBC-DATA606-Capstone/raw/main/app/saved_steps.pkl', 'rb') as file:
-            data = pickle.load(file)
+    # Ensure the link points directly to the raw content on GitHub
+    url = 'https://github.com/priyanka903/UMBC-DATA606-Capstone/raw/main/app/saved_steps.pkl'
+
+    # Send a GET request to the GitHub URL
+    response = requests.get(url)
+    
+    # Make sure the request is successful
+    if response.status_code == 200:
+        model_file = BytesIO(response.content)
+        data = pickle.load(model_file)
         return data
-    except FileNotFoundError:
-        print("The file 'saved_steps.pkl' was not found.")
-        return None
-    except Exception as e:
-        print(f"An error occurred: {e}")
+    else:
+        print("Failed to retrieve the model file. Status code:", response.status_code)
         return None
 
 data = load_model()
