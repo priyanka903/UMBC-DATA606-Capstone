@@ -2,6 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 from io import BytesIO
+import requests
 
 def load_model():
     # Ensure the link points directly to the raw content on GitHub
