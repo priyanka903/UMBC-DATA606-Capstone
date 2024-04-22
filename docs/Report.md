@@ -5,9 +5,8 @@
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
 - GitHub - <a href="https://github.com/priyanka903" target="_blank"> Priyanka </a>
 - LinkedIn - <a href="https://www.linkedin.com/in/priyanka-anumandla-54b06b189/" target="_blank"> Priyanka Anumandla </a>
--PowerPoint Presentation: https://docs.google.com/presentation/d/1Osr02uvQy2kPjhNljgcAzCqrqIP7bdX1/edit?usp=drive_link&ouid=10957252442985382&rtpof=true&sd=true
-- YouTube Video: https://drive.google.com/drive/folders/11TEXwy89I5ZoEqADe48AeUM2r10h7nh
-
+- PowerPoint Presentation: https://1drv.ms/p/c/3e38ad4e76a9edce/EbG8vvBEWaxKhlXqMsJPqwAB38s0jblNxCb8qKv-jNa0nw?e=KwzMwP 
+- YouTube Video: 
 
 
 ## Background
@@ -72,7 +71,7 @@ I have evaluated performance of the model using Accuracy, Classification Report 
 
 ## Web App Development:
 Developed a web application using Streamlit for users to interact with Transaction details
-- **Streamliapp:** (https://txn.streamlit.app/)
+- **Streamliapp:** (https://txnfraudidentification.streamlit.app/)
 
 ## Conclusion:
 
@@ -80,12 +79,6 @@ Developed a web application using Streamlit for users to interact with Transacti
 - Limitation: The dataset may not cover all possible scenarios of fraud, which can limit the model's ability to generalize to new, unseen types of fraud.
 - Lessons learned are challenges of Imbalanced Data: Addressing the challenge of imbalanced classes in fraud detection taught the critical importance of using the right metrics for evaluating model performance.
 - Future Research Direction:  Developing models that can learn from streaming data in real-time would be a significant step forward, allowing for dynamic adaptation to emerging fraud patterns.
-
-## References:
-- [Announcing Streamlit for Data Science: Second Edition] Tyler Richards
-Sep 29, 2023 https://medium.com/streamlit
-- https://imbalanced-learn.org/stable/combine.html
-- https://medium.com/@corymaklin/synthetic-minority-over-sampling-technique-smote-7d419696b88c
 
 
 

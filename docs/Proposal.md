@@ -3,8 +3,11 @@
 - Author - Priyanka Anumandla
 - Semester - Spring'24
 - Prepared for UMBC Data Science Master Degree Capstone by Dr Chaojie (Jay) Wang
-- GitHub - <a href="https://github.com/priyanka903" target="_blank"> Priyanka </a>
-- LinkedIn - <a href="https://www.linkedin.com/in/priyanka-anumandla-54b06b189/" target="_blank"> Priyanka Anumandla </a>
+- GitHub - https://github.com/priyanka903
+- LinkedIn - https://www.linkedin.com/in/priyanka-anumandla
+- PowerPoint Presentation: https://1drv.ms/p/c/3e38ad4e76a9edce/EbG8vvBEWaxKhlXqMsJPqwAB38s0jblNxCb8qKv-jNa0nw?e=KwzMwP 
+- YouTube Video: 
+
 
 ## Background
 ### Problem Statement
