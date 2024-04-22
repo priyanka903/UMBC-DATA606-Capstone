@@ -25,7 +25,7 @@ regressor = data["model"]
 
 def show_predict_page():
     
-    st.title("Fraud Transaction Prediction")
+    st.title("Online Payment Fraud Detection")
     st.write("""### We need some information to predict the transaction""")
 
     # Collect inputs as strings
