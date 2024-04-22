@@ -29,7 +29,7 @@ def show_predict_page():
     st.write("""### We need some information to predict the transaction""")
 
     # Collect inputs as strings
-    user_input_step = st.text_input("Enter step number, 0", key="input_step")
+    user_input_step = st.text_input("Enter step number", key="input_step")
     user_input_amount = st.text_input("Enter amount", key="input_amount")
     user_input_oldbalanceOrig = st.text_input("Enter old balance origin", key="input_oldbalanceOrig")
     user_input_newbalanceOrig = st.text_input("Enter new balance origin", key="input_newbalanceOrig")
