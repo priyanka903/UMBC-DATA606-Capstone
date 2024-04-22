@@ -1,0 +1,3 @@
+Built a User interface for a fraud detection system that uses transaction details to predict whether a transaction is fraudulent. Users must input several pieces of information related to a financial transaction: the step number (possibly a time indicator), the transaction amount, the old and new balances of both the origin and destination accounts. Finally, there’s a field to enter whether the transaction is flagged as fraud. Once all the data is entered, the user can click on "Predict Transaction" to evaluate the likelihood of fraud.
+
+Streamlit: https://txnfraudidentification.streamlit.app/
