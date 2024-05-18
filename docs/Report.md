@@ -93,8 +93,15 @@ The development environments are
 
 5.Performance Measures of the models
 I have evaluated performance of the model using Accuracy, Classification Report and ROC curve.
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/1lgroc.png" alt="1lgroc.png" width="500">
 <img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/1.1dtroc.png" alt="1.1dtroc.png" width="500">
-
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/3rfroc.png" alt="3rfroc.png" width="500">
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/4xgbroc.png" alt="4xgbroc.png" width="500">
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/5lgroc.png" alt="5lgroc.png" width="500">
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/6dtroc.png" alt="6dtroc.png" width="500">
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/7rfroc.png" alt="7rfroc.png" width="500">
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/8xgbroc.png" alt="8xgbroc.png" width="500">
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/final.png" alt="final.png" width="500">
 ## Web App Development:
 Developed a web application using Streamlit for users to interact with Transaction details
 - **Streamliapp:** (https://txnfraudidentification.streamlit.app/)
