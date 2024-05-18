@@ -53,7 +53,7 @@ Online payment fraud is a significant issue affecting businesses and individuals
 
 ## Exploratory Data Analysis (EDA)
 
-### Analysing missing values
+#### Analysing missing values
 ![missingvalues.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/missingvalues.png)
 There are no missing values in the dataset.
 ![outliers.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/outliers.png)
@@ -68,10 +68,12 @@ There is a strong corelation between newbalanceOrg and oldbalanceOrg
 'Cash_out' type of transaction has maximum count of amount processed. Least number of transaction happend on 'Debit'.
 ![fraudtxn.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/fraudtxn.png)
 There are five types of transactions named Payment, Transfer, Cash_out, Debit and Cash_in. In this only 'Transfer' and 'Cash_out' have fraud transactions.
-![amount.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/Images/amount.png)
-Most of the fraud transaction amount is in between 1 million.
+![amount.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/amount.png)
+Most of the fraud transaction amount is in 1 between 1 million.
 ![stepcount.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/stepcount.png)
 Maximum distribution are between 150 to 350 of step.
+
+In a nutshell, there are no missing values and Duplicate rows in the dataset. I have performed sanity check using outliers graph in the Jupyter Notebook. There is no need of splitting, merging, pivoting, melting for this dataset. In the above visualizations, we can see data is Imbalanced, 'Transfer' type of transaction has maximum amount of amount processed, 'Cash_out' type of transaction has maximum count of amount processed, 'Transfer' and 'Cash_out' have fraud transactions, amount is in 1 between 1 million and Maximum distribution are between 150 to 350 of step.
 
 
 ## Model Training
