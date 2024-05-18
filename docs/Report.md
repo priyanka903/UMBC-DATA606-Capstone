@@ -51,6 +51,21 @@ Online payment fraud is a significant issue affecting businesses and individuals
 - **Target Variable(s)** - isFraud is Target Variable
 - The remaining columns are predictors
 
+## Exploratory Data Analysis (EDA)
+
+### Analysing missing values
+![missingvalues.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/missingvalues.png)
+There are no missing values in the dataset.
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![amount.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/Images/amount.png)
+
+
 ## Model Training
 1. Models for Predictive Analytics:
 Models used are Logistic regression, Decision trees, Random forest and XGboost. I have applied grid search on the best model to recieve idea results.
