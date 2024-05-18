@@ -93,6 +93,7 @@ The development environments are
 
 5.Performance Measures of the models
 I have evaluated performance of the model using Accuracy, Classification Report and ROC curve.
+<img src="https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/1.1dtroc.png" alt="1.1dtroc.png" width="300">
 
 ## Web App Development:
 Developed a web application using Streamlit for users to interact with Transaction details
