@@ -56,14 +56,22 @@ Online payment fraud is a significant issue affecting businesses and individuals
 ### Analysing missing values
 ![missingvalues.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/missingvalues.png)
 There are no missing values in the dataset.
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![outliers.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/outliers.png)
+Displaying the outliers from the dataset
+![fraudtxnshow.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/fraudtxnshow.png)
+There are very few fraud identified transactions. There is high chances of imbalance class so need to balance the classes using oversampling or undersampling.
+![correlation.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/correlation.png)
+There is a strong corelation between newbalanceOrg and oldbalanceOrg
+![maxamountoftxn.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/maxamountoftxn.png)
+'Transfer' type of transaction has maximum amount of amount processed. Least amount of transaction happend on 'Debit'.
+![typeoftxn.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/typeoftxn.png)
+'Cash_out' type of transaction has maximum count of amount processed. Least number of transaction happend on 'Debit'.
+![fraudtxn.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/fraudtxn.png)
+There are five types of transactions named Payment, Transfer, Cash_out, Debit and Cash_in. In this only 'Transfer' and 'Cash_out' have fraud transactions.
 ![amount.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/Images/amount.png)
+Most of the fraud transaction amount is in between 1 million.
+![stepcount.png](https://github.com/priyanka903/UMBC-DATA606-Capstone/blob/main/docs/Images/stepcount.png)
+Maximum distribution are between 150 to 350 of step.
 
 
 ## Model Training
